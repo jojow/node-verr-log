@@ -1,6 +1,6 @@
 {
   "name": "verr-log",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "Johannes Wettinger <mail@jojow.de>",
   "description": "Simple JavaScript logger, supporting verror",
   "repository": {
