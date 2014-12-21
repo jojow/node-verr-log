@@ -1,0 +1,31 @@
+{
+  "name": "verr-log",
+  "version": "0.0.1",
+  "author": "Johannes Wettinger <mail@jojow.de>",
+  "description": "Simple JavaScript logger, supporting verror",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jojow/node-verr-log"
+  },
+  "contributors": [
+    {
+      "name": "Johannes Wettinger",
+      "email": "mail@jojow.de"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "verror",
+    "log"
+  ],
+  "preferGlobal": false,
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "debug": "~2.1.0",
+    "prettyjson": "~1.0.0",
+    "json-stringify-safe": "~5.0.0"
+  },
+  "engines": {
+    "node": ">= 0.10"
+  }
+}
