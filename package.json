@@ -1,6 +1,6 @@
 {
   "name": "verr-log",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Johannes Wettinger <mail@jojow.de>",
   "description": "Simple JavaScript logger, supporting verror",
   "repository": {
@@ -20,7 +20,7 @@
   ],
   "preferGlobal": false,
   "dependencies": {
-    "lodash": "~2.4.1",
+    "lodash": "~3.8.0",
     "debug": "~2.1.0",
     "prettyjson": "~1.0.0",
     "json-stringify-safe": "~5.0.0"
